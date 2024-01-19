@@ -1,0 +1,16 @@
+.header {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    background: lightblue;
+    margin: 0 0 50px 0;
+}
+
+.header ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
